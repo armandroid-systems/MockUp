@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AtApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--WELCOME SCREEN-->
+    <string name="search_text">Searching Athena device(s)</string>
+    <string name="search_select_text">Select your Athena device</string>
+
+    <!--PAIRING SCREEN-->
+    <string name="paring_text">Please wait while android pairs Athena device</string>
+
+    <!--CUSTOM SCREEN-->
+    <string name="google_account_text">Select an existing gmail account or select new one?</string>
+</resources>
